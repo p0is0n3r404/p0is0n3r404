@@ -1,5 +1,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0is0n3r404&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p0is0n3r404&show_icons=true&theme=radical)
+
 <div align="center">
   <img src=["https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.linkedin.com/posts/fitsec_cybersecurity-fitsec-threatintelligence-activity-6891345175495725056-Fa0I)" width="100"/> 
   <!-- Alternatif Cyber Gif: https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif -->
@@ -13,7 +14,9 @@
   ---
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=435&lines=Initialising+Uplink...;Accessing+Mainframe...;Target%3A+Secure+Systems;Mode%3A+Offensive;Status%3A+Online)
-
+  
+  <br/>
+  <img src="https://media.giphy.com/media/3o7TKSjPFr0Ipsh2z6/giphy.gif" width="600" alt="Hacker GIF" />
 </div>
 
 ## 🚀 About Me
