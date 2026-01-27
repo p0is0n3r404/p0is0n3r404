@@ -16,7 +16,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=435&lines=Initialising+Uplink...;Accessing+Mainframe...;Target%3A+Secure+Systems;Mode%3A+Offensive;Status%3A+Online)
   
   <br/>
-  <img src="https://media.giphy.com/media/3o7TKSjPFr0Ipsh2z6/giphy.gif" width="600" alt="Hacker GIF" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZ2aW9pd2sxM3hldnA0cmxlNGRmMjZrZG1iZjdydHhvYmt6M2l3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif" width="600" alt="Hacker GIF" />
 </div>
 
 ## 🚀 About Me
