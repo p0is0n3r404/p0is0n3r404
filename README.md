@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0is0n3r404&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p0is0n3r404&show_icons=true&theme=radical)
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/> 
   <!-- Alternatif Cyber Gif: https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif -->
