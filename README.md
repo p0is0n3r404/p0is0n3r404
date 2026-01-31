@@ -1,5 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0is0n3r404&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p0is0n3r404&show_icons=true&theme=radical)
+
 
 <div align="center">
   <img src=["https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.linkedin.com/posts/fitsec_cybersecurity-fitsec-threatintelligence-activity-6891345175495725056-Fa0I)" width="100"/> 
